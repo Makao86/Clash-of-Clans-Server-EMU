@@ -38,7 +38,7 @@ namespace GL.Servers.CoC.Files.CSV_Logic
         public int AirDefense { get; set; }
         public int Mortar { get; set; }
         public int Mortar_gearup { get; set; }
-        public int Alliance Castle { get; set; }
+        public int AllianceCastle { get; set; }
         public int Ejector { get; set; }
         public int Superbomb { get; set; }
         public int Mine { get; set; }
