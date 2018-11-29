@@ -132,7 +132,7 @@ namespace GL.Servers.CoC.Logic.Enums
         DestroyDarkElixirStoragesIntense,
         DestroyClanCastlesIntense,
         DestroyLaboratoriesIntense,
-       DestroySpellFactoriesIntense,
+        DestroySpellFactoriesIntense,
         DestroyDarkSpellFactoriesIntense,
         DestroyAirSweepersIntense,
         DestroyAirDefensesIntense,
